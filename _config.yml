@@ -8,9 +8,9 @@
 # Site settings
 title: Kelvin Arellano Portfolio Site
 email: email@kelvin-arellano.com
-description: This is a site dedicated showing my own growth as a developer and showcase my projects.
-baseurl: "/home" # the subpath of your site, e.g. /blog
-url: "kelvin-arellano.net" # the base hostname & protocol for your site
+description: This is a site dedicated showing my own growth as a developer and expand my
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username:  kelvin-arellano
 
 # Build settings
